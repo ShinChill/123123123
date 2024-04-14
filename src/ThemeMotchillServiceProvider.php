@@ -33,7 +33,7 @@ class ThemeMotchillServiceProvider extends ServiceProvider
             'motchill' => [
                 'name' => 'Motchill',
                 'author' => 'contact.animehay@gmail.com',
-                'package_name' => 'shin/motchill-vippro',
+                'package_name' => 'shinchillne1/motchill-vippro',
                 'publishes' => ['motchill-assets'],
                 'preview_image' => '',
                 'options' => [
