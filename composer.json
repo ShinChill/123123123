@@ -1,10 +1,10 @@
 {
-    "name": "ShinChill/motchill-vippro",
+    "name": "shin/motchill-vippro",
     "description": "Ophim's motchill theme mod",
     "type": "library",
     "authors": [
         {
-            "name": "ShinChill",
+            "name": "shin",
             "email": "contact.animehay@gmail.com"
         }
     ],
